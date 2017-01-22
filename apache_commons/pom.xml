@@ -7,15 +7,17 @@
     <artifactId>easy_java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.erik</groupId>
   <artifactId>apache_commons</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>apache_commons</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
+  
+  
+  
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
