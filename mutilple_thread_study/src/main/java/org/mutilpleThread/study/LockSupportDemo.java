@@ -32,7 +32,7 @@ public class LockSupportDemo {
 		t1.start();
 		Thread.sleep(100);
 		t2.start();
-		Thread.sleep(10000);
+//		Thread.sleep(10000);
 		t1.interrupt();
 		LockSupport.unpark(t2);
 	}
