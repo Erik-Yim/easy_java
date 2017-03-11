@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.erik</groupId>
     <artifactId>easy_java</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT1</version>
   </parent>
   <artifactId>mutilple_thread_study</artifactId>
   <name>mutilple_thread_study</name>
