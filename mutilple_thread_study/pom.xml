@@ -7,9 +7,7 @@
     <artifactId>easy_java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.erik</groupId>
   <artifactId>mutilple_thread_study</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>mutilple_thread_study</name>
   <url>http://maven.apache.org</url>
   <properties>
