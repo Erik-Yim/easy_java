@@ -70,7 +70,7 @@
 
     <modules>
         <module>apache_commons</module>
-        <module>multiple_thread_study</module>
+        <module>mutilple_thread_study</module>
         <module>basic_jdk_study</module>
         <module>spring_boot_mongo</module>
     </modules>

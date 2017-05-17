@@ -19,7 +19,7 @@
   </build>
   <packaging>jar</packaging>
 
-  <name>java8-newspecial</name>
+  <name>java8-newfeature</name>
   <url>http://maven.apache.org</url>
 
   <properties>
