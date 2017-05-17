@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>easy_java</name>
-    <url>http://maven.apache.org</url>
+    <url>http://maven.apache.org11</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
